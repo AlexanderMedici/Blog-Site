@@ -1,11 +1,23 @@
-import React from 'react'
+import React from 'react'; 
 import './article.css';
-const Article = () => {
-    return (
-        <div>
-            <h1>Article</h1>
-        </div>
-    )
-}
 
-export default Article
+
+
+
+const Article = ( { imgUrl, date, text } ) => (
+    <div className="ai__blog-container_article">
+        <div className=" ai__blog-container_article-image">
+            <img src={ imgUrl } alt="blog" />
+    </div>
+    <div className="ai__blog-container_article-content">
+          <div>
+            <p>{date}</p>
+          <h3>{text}</h3>
+      </div>
+      <p>Read Full Article</p>
+    </div>
+  </div>
+);
+
+
+export default Article;  
