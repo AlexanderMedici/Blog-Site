@@ -18,7 +18,7 @@ A modern UI-UX website is fully responsive using React. Figma did the heavy lift
 
 
 ## Screenshots
-![Alt Text]( https://media.giphy.com/media/CIR8LnQFgniuhRLgz6/giphy.gif)
+![Alt Text](https://media.giphy.com/media/McUMA43hJpRbW78y0T/giphy.gif)
 
 ## Available Commands
 
@@ -58,8 +58,7 @@ For running the server file you can use this command.
 
 ## Future Updates
 
-- [ ] Add More Wallets Features
-- [ ] Add Staking
+- [ ] Add More CSS Animations
 
 
 ## Author
