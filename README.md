@@ -57,7 +57,7 @@ For running the server file you can use this command.
 ## Built With
 
 - <a href="https://devdocs.io/css/"><img src="https://img.shields.io/badge/Css-Made with-white?labelColor=green&style=for-the-badge&link=https://devdocs.io/css/" alt="Css" /></a>
-- <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/Jacascript-Made with-white?labelColor=green&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/javascript" alt="Jacascript" /></a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/Javascript-Made with-white?labelColor=green&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/javascript" alt="Javascript" /></a>
 - <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-Made with-white?labelColor=green&style=for-the-badge&link=https://reactjs.org/" alt="React" /></a>
 
  
