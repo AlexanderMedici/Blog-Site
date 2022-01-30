@@ -1,5 +1,5 @@
 
-<h1 align="center">People.Ai<project-name></h1>
+<h1 align="center">People.AI<project-name></h1>
 
 <p align="left">Description</p>
  
