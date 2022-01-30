@@ -1,70 +1,87 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Quickoin<project-name></h1>
 
-## Available Scripts
+<p align="left">Cryptocurrency is a challenge to our notions of money and stored economic value. This app is meant to simplify the payment process, Connect your metamask account to this site and send crypto to anywhere in the world. Lower gas fees allow for affordable transactions. Solidty is used to write the smart contracts that work with etherum blockchain network.</p>
+ 
+
+<h3 align="left">
+Use Case<project-name></h3>
+This app is simmilar to an atm in a sense, send and receive crypto from anywhere simply have a recipient and a receiver simple secure with a  way to keep track of all transactions. Below  are just a few benefits: <br/>
+ <ul>
+ <li><b>Safer payments.</b> Payments within the blockchain network are transparent, secure, and irreversible. Moreover, they are anonymous. This combination will almost completely eliminate the risk of fraud. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
+   <li><b>Speeding up international transactions.</b> It still takes a long time to make international payments as each intermediary bank checks the transaction data and thus delays the receipt of the payment. The blockchain network is transparent and secure, so cryptocurrencies can be sent and received almost instantly. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
+   <li><b>No governmental control.</b> This is a rather dubious advantage since cryptocurrencies in the hands of cybercriminals and lack of control is not the best scenario. However, blockchain enables companies to earn money honestly and allows users to spend it at their discretion. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
+   <li><b>Attracting modern users.</b> The majority of the public is not yet ready for the full adoption of cryptocurrencies, but a number of progressive users have long appreciated their benefits. If your business is aimed at tech-savvy users, they will appreciate the idea of a custom cryptocurrency wallet. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
+ </ul>
+
+ 
+ <project-description></p>
+
+## Links
+
+- [Repo](https://github.com/AlexanderMedici/Blog-Site "<Blog_Site> Repo")
+
+- [Live](<https://blog-site-ai.netlify.app/> "Live View")
+
+
+## Screenshots
+![Alt Text]( https://media.giphy.com/media/CIR8LnQFgniuhRLgz6/giphy.gif)
+
+## Available Commands
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start" : "react-scripts start"`,
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
+The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-### `npm test`
+### `"npm run build": "react-scripts build"`,
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
 
-### `npm run build`
+### `"npm run test": "react-scripts test"`,
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Launches the test runner in the interactive watch mode.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
-### `npm run eject`
+### `"serve": "node server"`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+For running the server file you can use this command.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `npm run serve`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Built With
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- <a href="https://devdocs.io/css/"><img src="https://img.shields.io/badge/Css-Made with-white?labelColor=green&style=for-the-badge&link=https://devdocs.io/css/" alt="Css" /></a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/Jacascript-Made with-white?labelColor=green&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/javascript" alt="Jacascript" /></a>
+- <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-Made with-white?labelColor=green&style=for-the-badge&link=https://reactjs.org/" alt="React" /></a>
 
-## Learn More
+ 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Future Updates
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [ ] Add More Wallets Features
+- [ ] Add Staking
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
 
-### Analyzing the Bundle Size
+**Alexander Medici**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Profile](https://github.com/AlexanderMedici "Alexander")
+- [Email](mailto:contactimedici@gmail.com?subject=Hi "Hi!")
+- [Website]("Welcome")
 
-### Making a Progressive Web App
+ 
+## Contact Me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/alexmedici/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:contactimedici@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
+## 🤝 Support
 
-### Advanced Configuration
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if you like this project!
