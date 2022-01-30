@@ -1,27 +1,20 @@
 
-<h1 align="center">Quickoin<project-name></h1>
+<h1 align="center">People.Ai<project-name></h1>
 
-<p align="left">Cryptocurrency is a challenge to our notions of money and stored economic value. This app is meant to simplify the payment process, Connect your metamask account to this site and send crypto to anywhere in the world. Lower gas fees allow for affordable transactions. Solidty is used to write the smart contracts that work with etherum blockchain network.</p>
+<p align="left">Description</p>
  
 
 <h3 align="left">
 Use Case<project-name></h3>
-This app is simmilar to an atm in a sense, send and receive crypto from anywhere simply have a recipient and a receiver simple secure with a  way to keep track of all transactions. Below  are just a few benefits: <br/>
- <ul>
- <li><b>Safer payments.</b> Payments within the blockchain network are transparent, secure, and irreversible. Moreover, they are anonymous. This combination will almost completely eliminate the risk of fraud. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
-   <li><b>Speeding up international transactions.</b> It still takes a long time to make international payments as each intermediary bank checks the transaction data and thus delays the receipt of the payment. The blockchain network is transparent and secure, so cryptocurrencies can be sent and received almost instantly. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
-   <li><b>No governmental control.</b> This is a rather dubious advantage since cryptocurrencies in the hands of cybercriminals and lack of control is not the best scenario. However, blockchain enables companies to earn money honestly and allows users to spend it at their discretion. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
-   <li><b>Attracting modern users.</b> The majority of the public is not yet ready for the full adoption of cryptocurrencies, but a number of progressive users have long appreciated their benefits. If your business is aimed at tech-savvy users, they will appreciate the idea of a custom cryptocurrency wallet. Source: https://cprimestudios.com/blog/how-create-easy-use-cryptocurrency-wallet-app</li>
- </ul>
-
- 
+A modern UI-UX website is fully responsive using React. Figma did the heavy lifting in terms of the design, layout, color. React was instrumental as Components played a key role alongside javascript and CSS. 
  <project-description></p>
 
 ## Links
 
 - [Repo](https://github.com/AlexanderMedici/Blog-Site "<Blog_Site> Repo")
 
-- [Live](<https://blog-site-ai.netlify.app/> "Live View")
+- [Live Link To People.AI](<https://blog-site-ai.netlify.app/> "Live View")
+ - [Link To Figma Design](<https://www.figma.com/file/e1ijvWy1VYrLlmzMfgCQgR/People.AI?node-id=0%3A1> "Live Figma")
 
 
 ## Screenshots
@@ -59,6 +52,7 @@ For running the server file you can use this command.
 - <a href="https://devdocs.io/css/"><img src="https://img.shields.io/badge/Css-Made with-white?labelColor=green&style=for-the-badge&link=https://devdocs.io/css/" alt="Css" /></a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/Javascript-Made with-white?labelColor=green&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/javascript" alt="Javascript" /></a>
 - <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-Made with-white?labelColor=green&style=for-the-badge&link=https://reactjs.org/" alt="React" /></a>
+- <a href="https://www.figma.com/file/e1ijvWy1VYrLlmzMfgCQgR/People.AI?node-id=0%3A15"><img src="https://img.shields.io/badge/Figma-Made with-white?labelColor=green&style=for-the-badge&link=https://www.figma.com/file/e1ijvWy1VYrLlmzMfgCQgR/People.AI?node-id=0%3A15" alt="Figma" /></a>
 
  
 
