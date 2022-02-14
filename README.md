@@ -1,15 +1,31 @@
+People.Ai
 
-<h1 align="center">People.AI<project-name></h1>
+- [Project-Website](#project-website)
+- [Features](#features)
+- [Description](#description) 
+- [Use Case](#use-case)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Available Commands](#available-commands)
+- [License](#license)
+- [Contact Me](#contact-me)
 
-<p align="left">Description</p>
- 
+## Project Website 
 
-<h3 align="left">
-Use Case<project-name></h3>
-A modern UI-UX website is fully responsive using React. Figma did the heavy lifting in terms of the design, layout, color. React was instrumental as Components played a key role alongside javascript and CSS. 
- <project-description></p>
 
-## Links
+- [Live Link To People.AI](<https://blog-site-ai.netlify.app/> "Live View")
+- [Link To Figma Design](<https://www.figma.com/file/e1ijvWy1VYrLlmzMfgCQgR/People.AI?node-id=0%3A1> "Live Figma")
+
+## Features
+Figma did the heavy lifting in terms of the design, layout, colour.React was instrumental as Components played a key role alongside javascript and CSS
+
+##  Description
+
+Transformed a Figma design into a fully functioning Modern UI/UX Website using React JS. 
+
+## Use Case
+
+Can be adapted or repurposed as a blog template to host various uses, like- business platforms, news outlet, personal blogs, or non profits . 
 
 - [Repo](https://github.com/AlexanderMedici/Blog-Site "<Blog_Site> Repo")
 
@@ -47,7 +63,7 @@ For running the server file you can use this command.
 
 ### `npm run serve`
 
-## Built With
+## Technologies Used
 
 - <a href="https://devdocs.io/css/"><img src="https://img.shields.io/badge/Css-Made with-white?labelColor=green&style=for-the-badge&link=https://devdocs.io/css/" alt="Css" /></a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/Javascript-Made with-white?labelColor=green&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/javascript" alt="Javascript" /></a>
