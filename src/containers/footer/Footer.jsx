@@ -1,6 +1,6 @@
 import React from 'react'
 import "./footer.css"; 
-import aiLogo from "../../assets/logo.svg"; 
+import aiLogo from "../../assets/digitalai2.svg"; 
 
 const Footer = () => (
         <div className="ai__footer section__padding">
@@ -17,9 +17,9 @@ const Footer = () => (
       </div>
       <div className="ai__footer-links_div">
         <h4>Links</h4>
-        <p>Overons</p>
+        <p>About</p>
         <p>Social Media</p>
-        <p>Counters</p>
+        <p>FAQ</p>
         <p>Contact</p>
       </div>
       <div className="ai__footer-links_div">
@@ -30,7 +30,7 @@ const Footer = () => (
       </div>
       <div className="ai__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
+        <p>Mirkwood K12 182 DK </p>
         <p>085-132567</p>
         <p>info@payme.net</p>
       </div>

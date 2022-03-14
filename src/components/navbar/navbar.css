@@ -75,7 +75,7 @@ cursor: pointer;
     align-items: flex-end;
     flex-direction: column;
     text-align: end;
-    background: var(--color-footer);
+    background: #e0960b;
     padding : 2rem; 
     position: absolute;
     top: 40px;
